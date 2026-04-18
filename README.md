@@ -123,5 +123,3 @@ http://127.0.0.1:5000/
 ## 👨‍💻 Author
 
 **Khushi Kaduskar**
-
-This project is developed as part of academic coursework to demonstrate the application of **deep learning and computer vision techniques** in real-world scenarios.
