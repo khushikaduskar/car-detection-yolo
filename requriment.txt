@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+opencv-python
+flask
+matplotlib
+scikit-learn
+YOLOv8
