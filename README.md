@@ -56,23 +56,6 @@ The dataset used in this project is sourced from Kaggle:
 3. Place it inside your project folder:
 
 
-## 📁 Project Structure
-
-
-SL2_MP/
-│
-├── app.py
-├── yolo/
-│   └── detect.py
-│
-├── static/
-│   └── uploads/
-│
-├── templates/
-│   └── index.html
-│
-├── dataset/
-
 ## ⚙️ Installation Guide
 
 ### 1️⃣ Clone Repository
